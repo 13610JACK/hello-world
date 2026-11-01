@@ -1,2 +1,2 @@
 # hello-world
-test-github -change -edit
+test-github -change -edit 2
